@@ -1,6 +1,12 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
+// +-------------------------------------------------+
+// |        Code Authored by Vladimir Kiselev        |
+// |                Year: 2024                       |
+// |      > Syntax: Approved | Logic: Verified       |
+// +-------------------------------------------------+
+
 #include <QMainWindow>
 #include <QMessageBox>
 #include <QTextStream>
