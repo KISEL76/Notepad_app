@@ -1,6 +1,6 @@
 # Notepad_app
 
-This project is a simple Notepad application written in C++ using the Qt framework.
+This project is a simple Notepad application written in C++ using the Qt 5.12 framework.
 
 It was created as one of the course projects during a university programming curriculum, aimed at practicing object-oriented programming, GUI development, and file handling in C++.
 
